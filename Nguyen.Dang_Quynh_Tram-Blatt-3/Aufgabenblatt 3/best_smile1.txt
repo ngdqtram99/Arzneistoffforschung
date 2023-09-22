@@ -1,0 +1,1 @@
+['Cc1cc(NC(=O)CC(=O)NC2CCN(C3CCN(C(=O)C#CC(=O)O)CC3)CC2)no1']['COC(=O)c1cc(Br)c(OC)cc1NC(=O)C(=O)NCC(=O)NCC#N']['N#Cc1ccc(N2C[C@H](C(=O)N3CCN(C(=O)CN4C(=O)CCC4=O)CC3)CC2=O)cc1']['O=C(O)C#CC(=O)N1CC[C@]2(C1)CN(C(=O)c1ccc(N3C(=O)C=CC3=O)cc1)CCO2']['Cc1cc(C(=O)NCC(=O)NC[C@@]23CCCO[C@@H]2CCN(C(=O)C#CC(=O)O)C3)no1']
